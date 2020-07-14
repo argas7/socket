@@ -1,0 +1,12 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "argas7 <argas@cin.ufpe.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "socket.io": "^2.3.0"
+  }
+}
